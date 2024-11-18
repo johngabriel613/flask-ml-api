@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Flask specific files
+instance/
+.webassets-cache
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Log files
+*.log
+
+exp1.keras
+exp2.keras
+exp3.keras
+exp4.keras
+exp5.keras
